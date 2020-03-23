@@ -7,6 +7,7 @@ class ContainerExample extends StatelessWidget {
       height: 100,
       width: 100,
       color: Colors.greenAccent,
+      child: Text('It is me, Le\'Clerc'),
     );
   }
 }
